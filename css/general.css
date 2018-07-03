@@ -68,7 +68,7 @@ h6{
 
 
 .hero{
-	background-image: url('../images/chica.jpg');
+	background-image: url('../../images/chica.jpg');
 	height: 450px;
 	background-size: cover;
 }
