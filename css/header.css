@@ -22,7 +22,7 @@ header nav ul li a{
 
 header nav ul li a:hover{
 	color: #717171;
-	border-bottom: 3px solid #fe0000; 
+	border-bottom: 2px solid #fe0000; 
 }
 
 header .carrito{
